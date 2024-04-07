@@ -23,7 +23,7 @@ class Song {
         return duration;
     }
 
-    @Override
+
     public String toString() {
         return "Title: " + title + ", Artist: " + artist + ", Duration: " + duration;
     }

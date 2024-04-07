@@ -1,0 +1,1 @@
+excellent,terrible,good,bad,awesome,poor,good,excellent,bad,terrible,poor,awesome,excellent,poor,good,bad,awesome,terrible,good,excellent
